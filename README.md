@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netri-100224&label=Profile%20views&color=0e75b6&style=flat" alt="netri-100224" /> </p>
 
-- 🌱 I’m currently learning **OpenCV,TensorFlow and other ML Frameworks**
+- 🌱 I’m currently learning **SpringBoot,Spring MVC,Hibernate**
+- I am well versed in **OpenCV,TensorFlow and other ML Frameworks** 
 
 - 📫 How to reach me **nehatripathi.20ec007@gmail.com**
 
