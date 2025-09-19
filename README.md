@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks 👋, I'm Neha Tripathi</h1> 
-<h3 align="center">
-  Java enthusiast | Problem solver | Curious learner<br>
-  1 YOE in building scalable backend solutions using Java, Spring Boot, DSA & DBMS.<br>
+<h3 align="centre">
+  Java enthusiast | Problem solver | Curious learner</h3>
+  <h3>1 YOE in building scalable backend solutions using Java, Spring Boot, DSA & DBMS.<br>
   Focused on creating impactful apps that drive business goals and improve user experience.
 </h3>
 
@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=netri-100224&label=Profile%20views&color=0e75b6&style=flat" alt="netri-100224" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
+<img align="right" alt="Coding" width="300" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
 
 ## 🧑‍💻 About Me
 
