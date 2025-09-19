@@ -81,38 +81,26 @@
 
 ---
 
-<h2>📊 GitHub Stats & Activity</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<div align="center">
-
-  <!-- GitHub Language Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=netri-100224&layout=compact&theme=default" 
-    alt="Top Languages" 
-    width="400" 
-  />
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=netri-100224&show_icons=true&locale=en&theme=default" 
-    alt="GitHub Stats" 
-    width="450" 
-  />
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=netri-100224&theme=default" 
-    alt="GitHub Streak" 
-    width="500"
-  />
-
-</div>
-
-<h3 align="center">📈 GitHub Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="600" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netri-100224&layout=compact&theme=default" alt="Top Languages" width="400"/>
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=netri-100224&show_icons=true&locale=en&theme=default" alt="GitHub Stats" width="450"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=netri-100224&theme=default" alt="GitHub Streak" width="400"/>
+    </td>
+    <td align="right">
+      <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="450"/>
+    </td>
+  </tr>
+</table>
 
 
 ⭐ **Thank you for visiting! Feel free to check out my repositories and connect.**
