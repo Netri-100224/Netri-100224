@@ -9,6 +9,7 @@
 <!-- Image placed above heading, with larger but safe size -->
 <img align="right" alt="Coding" width="380" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" />
 
+
 ## 🧑‍💻 About Me
 
 - 💼 I'm currently working as a **Software Developer**
@@ -17,6 +18,7 @@
 - 📚 Currently exploring: **System Design, Kubernetes, and Cloud (AWS/GCP)**
 - 🎯 Strong interest in building **Robust, Scalable Systems**
 
+<br><br><br>
 
 ## 🏆 Achievements
 
