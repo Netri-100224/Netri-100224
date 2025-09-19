@@ -15,9 +15,10 @@
 🧑‍💻  **About Me** 
 
 - 💼 I'm currently working as a **Software Developer**  
-- 🔍 Actively looking for challenging backend/full-stack roles  
+- 🔍 Actively looking for challenging **Backend/Full-stack** roles  
 - ⚙️ Tech Stack: **Java, Spring Boot, DSA, MySQL/NoSQL, REST API, Git, Docker**  
-- 📚 Currently exploring: **System Design, Kubernetes, and Cloud (AWS/GCP)**  
+- 📚 Currently exploring: **System Design, Kubernetes, and Cloud (AWS/GCP)**
+- 🤖 Experimented with **Machine Learning and Data Analysis** by building practical projects  
 - 🎯 Strong interest in building **Robust, Scalable Systems**
 
 <br>
@@ -77,6 +78,10 @@
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="40" height="40" />
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
+</a>
+
 </p>
 
 ---
