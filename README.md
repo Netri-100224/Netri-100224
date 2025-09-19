@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=netri-100224&label=Profile%20views&color=0e75b6&style=flat" alt="netri-100224" />
 </p>
 
-<img align="right" alt="Coding" width="300"  height = "100" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
+<img align="right" alt="Coding" width="300"  height = "300" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
 
 ---
 ## 🧑‍💻 About Me
