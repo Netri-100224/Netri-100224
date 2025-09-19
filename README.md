@@ -88,6 +88,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=netri-100224&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=netri-100224" alt="GitHub Streak" /></p>
+<h2>📊 GitHub Contribution Activity</h2>
+<p align="center">
+  <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="600" />
+</p>
 
 ---
 
