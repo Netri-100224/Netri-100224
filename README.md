@@ -11,6 +11,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
 
+---
 ## 🧑‍💻 About Me
 
 - 💼 I'm currently working as a **Software Developer**  
@@ -20,6 +21,7 @@
 - 🎯 Strong interest in building **Robust, Scalable Systems**
 
 <br>
+---
 
 ## 🏆 Achievements
 
