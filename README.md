@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks 👋, I'm Neha Tripathi</h1> 
-<h3 align="centre">
+<h3 align="center">
   Java enthusiast | Problem solver | Curious learner</h3>
   <h4>1 YOE in building scalable backend solutions using Java, Spring Boot, DSA & DBMS.<br>
   Focused on creating impactful apps that drive business goals and improve user experience.
