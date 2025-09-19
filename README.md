@@ -1,9 +1,9 @@
 <h1 align="center">Hi Folks 👋, I'm Neha Tripathi</h1> 
 <h3 align="center">
-  Java enthusiast | Problem solver | Curious learner<br>
-  1 YOE in building scalable backend solutions using Java, Spring Boot, DSA & DBMS.<br>
+  Java enthusiast | Problem solver | Curious learner</h3><br>
+<h4 align="center">  1 YOE in building scalable backend solutions using Java, Spring Boot, DSA & DBMS.<br>
   Focused on creating impactful apps that drive business goals and improve user experience.
-</h3>
+</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=netri-100224&label=Profile%20views&color=0e75b6&style=flat" alt="netri-100224" />
@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400"  height = "400" src="https://tse2.mm.bing.net/th?id=OIP.4_sx0B74x8mRTzthJHIVCQHaHa&pid=Api&P=0" style="margin-left: 20px;" />
 
 ---
-🧑‍💻 <h4> **About Me** </h4>
+🧑‍💻  **About Me** 
 
 - 💼 I'm currently working as a **Software Developer**  
 - 🔍 Actively looking for challenging backend/full-stack roles  
@@ -22,7 +22,7 @@
 
 <br>
 
-🏆  <h4> **Achievements** </h4>
+🏆  **Achievements** 
 
 - ✅ Solved 300+ DSA problems on LeetCode / HackerRank  
 - 🥇 Hackathon finalist at Provothon Hackathon  
