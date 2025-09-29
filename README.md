@@ -88,10 +88,8 @@
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
-<table>
-  <tr>
-    <!
-    <td align="left">
+<!--
+   <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netri-100224&layout=compact&theme=default" alt="Top Languages" width="400"/>
     </td>
     <td align="right">
@@ -102,12 +100,14 @@
     <td align="left">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=netri-100224&theme=default" alt="GitHub Streak" width="400"/>
     </td>
-    >
-    <td align="right">
+
+    -->
+    
+ align="center">
       <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="450"/>
-    </td>
-  </tr>
-</table>
+
+     
+  
 
 
 ⭐ **Thank you for visiting! Feel free to check out my repositories and connect.**
