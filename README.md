@@ -90,6 +90,7 @@
 
 <table>
   <tr>
+    <!
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netri-100224&layout=compact&theme=default" alt="Top Languages" width="400"/>
     </td>
@@ -101,6 +102,7 @@
     <td align="left">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=netri-100224&theme=default" alt="GitHub Streak" width="400"/>
     </td>
+    >
     <td align="right">
       <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="450"/>
     </td>
