@@ -103,8 +103,9 @@
 
     -->
     
- align="center">
+<td  align="center" 
       <img src="https://ghchart.rshah.org/netri-100224" alt="GitHub Contributions" width="450"/>
+      </td>
 
      
   
