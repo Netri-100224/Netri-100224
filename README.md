@@ -44,7 +44,7 @@
   <a href="https://www.leetcode.com/nehtrip_24" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="mailto:nehatripathi.20ec007@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:writetoneha97@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
