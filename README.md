@@ -14,7 +14,7 @@
 ---
 🧑‍💻  **About Me** 
 
-- 💼 I'm currently working as a **Software Developer**  
+- 💼 I'm currently working as a **Software Developer** at Ericsson.  
 - 🔍 Actively looking for challenging **Backend/Full-stack** roles  
 - ⚙️ Tech Stack: **Java, Spring Boot, DSA, MySQL/NoSQL, REST API, Git, Docker**  
 - 📚 Currently exploring: **System Design, Kubernetes, and Cloud (AWS/GCP)**
